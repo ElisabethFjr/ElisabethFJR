@@ -1,6 +1,6 @@
-### 👋Hello there 
+### <p align="center">👋Hello there </p>
 
-👾 I am **_Elisabeth_** and i have just started learning to code 👾
+<p align="center">👾 I am Elisabeth and i have just started learning to code 👾</p>
 
 
 
