@@ -5,6 +5,9 @@
 🌱 In progress ...
 * HTML/CSS
 * Javascript
+* Node.js/Express
+* SQL/PosgreSQL
+* ...
 
 
 
