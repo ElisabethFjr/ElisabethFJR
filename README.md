@@ -8,8 +8,7 @@
 * Node.js/Express
 * SQL/PosgreSQL
 * Sequelize
-* POO
-* ...
+* React
 
 
 
