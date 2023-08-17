@@ -4,25 +4,14 @@
 
 <p>🔎 Stacks</p> 
 <ul>
-  <li> HTML/CSS</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>HTML/CSS</li>
+  <li>Javascript</li>
+  <li>Node.js | Express</li>
+  <li>Node.js | Express</li>
+  <li>SQL | PosgreSQL</li>
+  <liSequelize></li>
+  <li>React</li>
   
-</ul>
-*
-* Javascript
-* Node.js | Express
-* SQL | PosgreSQL
-* Sequelize
-* React
-
-
-
-
-
 <!--
 **ElisabethFAUJOUR/ElisabethFAUJOUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
