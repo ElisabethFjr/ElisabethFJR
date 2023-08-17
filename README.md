@@ -1,8 +1,8 @@
-## <p align="center">Hello there !</p>
+<h1 align="center">Hello there !</h1>
 
-<p align="center">👾 I am Elisabeth, <strong>>Web Developer Front-end</strong> 👾</p>
+<p align="center">👾 I am Elisabeth, <strong>Web Developer Front-end</strong> 👾</p>
 
-### 🔎 Stacks
+<p>🔎 Stack s</p> 
 * HTML/CSS
 * Javascript
 * Node.js | Express
