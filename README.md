@@ -5,8 +5,8 @@
 #### 🔎 Stacks
 * HTML/CSS
 * Javascript
-* Node.js/Express
-* SQL/PosgreSQL
+* Node.js | Express
+* SQL | PosgreSQL
 * Sequelize
 * React
 
