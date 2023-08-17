@@ -2,7 +2,7 @@
 
 ### <p align="center">👾 I am Elisabeth, **Web Developer Front-end** 👾</p>
 
-#### 👩‍💻 Stacks
+#### 🔎 Stacks
 * HTML/CSS
 * Javascript
 * Node.js/Express
