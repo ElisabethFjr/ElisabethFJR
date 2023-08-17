@@ -2,8 +2,17 @@
 
 <p align="center">👾 I am Elisabeth, <strong>Web Developer Front-end</strong> 👾</p>
 
-<p>🔎 Stack s</p> 
-* HTML/CSS
+<p>🔎 Stacks</p> 
+<ul>
+  <li> HTML/CSS</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  
+</ul>
+*
 * Javascript
 * Node.js | Express
 * SQL | PosgreSQL
