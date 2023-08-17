@@ -1,8 +1,8 @@
-### <p align="center">Hello there !</p>
+## <p align="center">Hello there !</p>
 
-#### <p align="center">👾 I am Elisabeth and i have just started learning to code 👾</p>
+### <p align="center">👾 I am Elisabeth, **Web Developer Front-end** 👾</p>
 
-🌱 In progress ...
+#### 👩‍💻 Stacks
 * HTML/CSS
 * Javascript
 * Node.js/Express
