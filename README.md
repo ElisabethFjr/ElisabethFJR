@@ -4,7 +4,7 @@
 
 <p>🔎 Stacks</p> 
 <ul>
-  <li>HTML/CSS</li>
+  <li>HTML | CSS | SCSS</li>
   <li>Javascript | Typescript</li>
   <li>Node.js | Express</li>
   <li>SQL | PosgreSQL</li>
