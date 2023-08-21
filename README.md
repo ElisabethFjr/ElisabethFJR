@@ -5,8 +5,7 @@
 <p>🔎 Stacks</p> 
 <ul>
   <li>HTML/CSS</li>
-  <li>Javascript</li>
-  <li>Node.js | Express</li>
+  <li>Javascript | Typescript</li>
   <li>Node.js | Express</li>
   <li>SQL | PosgreSQL</li>
   <liSequelize></li>
