@@ -6,10 +6,11 @@
 <ul>
   <li>HTML | CSS | SCSS</li>
   <li>Javascript | Typescript</li>
+  <li>React</li>
   <li>Node.js | Express</li>
   <li>SQL | PosgreSQL</li>
   <liSequelize></li>
-  <li>React</li>
+
   
 <!--
 **ElisabethFAUJOUR/ElisabethFAUJOUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
