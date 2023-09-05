@@ -6,7 +6,7 @@
 <ul>
   <li>HTML | CSS | SCSS</li>
   <li>Javascript | Typescript</li>
-  <li>React</li>
+  <li>React.js | Redux</li>
   <li>Node.js | Express</li>
   <li>SQL | PosgreSQL</li>
   <liSequelize></li>
