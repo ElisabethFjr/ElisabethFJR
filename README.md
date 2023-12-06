@@ -1,6 +1,6 @@
 <h1 align="center">Hello there !</h1>
 
-<p align="center">👾 I am Elisabeth, <strong>Web Developer Front-end</strong> 👾</p>
+<p align="center">👾 I am Elisabeth, <strong>Web Developer Javascript</strong> 👾</p>
 
 <p>🔎 Stacks</p> 
 <ul>
