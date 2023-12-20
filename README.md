@@ -7,7 +7,7 @@
   <li>HTML | CSS | SASS</li>
   <li>Javascript | Typescript</li>
   <li>React.js | Next.js</li>
-  <li>Redux></li>
+  <li>Redux</li>
   <li>Node.js | Express</li>
   <li>SQL | PosgreSQL</li>
   <liSequelize></li>
