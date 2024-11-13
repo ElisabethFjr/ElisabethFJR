@@ -10,7 +10,7 @@
   <li>Redux</li>
   <li>Node.js | Express</li>
   <li>SQL | PosgreSQL</li>
-  <li>Sequelize> | Prisma</li>
+  <li>Sequelize | Prisma</li>
 </ul>
 
   
