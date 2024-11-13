@@ -4,13 +4,13 @@
 
 <p>🔎 Stacks</p> 
 <ul>
-  <li>HTML | CSS | SASS</li>
+  <li>HTML | CSS | SASS | Styled-components </li>
   <li>Javascript | Typescript</li>
   <li>React.js | Next.js</li>
   <li>Redux</li>
   <li>Node.js | Express</li>
   <li>SQL | PosgreSQL</li>
-  <liSequelize></li>
+  <liSequelize> | Prisma </li>
 
   
 <!--
